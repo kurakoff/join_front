@@ -1323,8 +1323,8 @@ a {
 
 .edif-profile {
   margin-top: 1.5em;
-  margin-right: 4px;
-  margin-left: 4px;
+  margin-right: 0px;
+  margin-left: 0px;
   padding-right: 30px;
   padding-left: 30px;
   border: 1px solid #ff4c00;
@@ -1595,7 +1595,7 @@ a {
   margin-bottom: 1em;
 }
 
-.button-setting-none {
+.button-settings-none {
   padding-right: 30px;
   padding-left: 30px;
   background-color: rgba(56, 152, 236, 0);
